@@ -21,6 +21,7 @@ Requirements
     • Authors and Books should have a many-to-many database table relationship.
     • When creating or editing a Book, User should be able to select more than one Authors. 
 Try to use https://select2.org/ or https://selectize.github.io/selectize.js/. 
+
     • Each Model landing page should have a table with list of record and action buttons.
     • Create at least ten dummy records for each Model.
     • Only Admin level can delete records.
